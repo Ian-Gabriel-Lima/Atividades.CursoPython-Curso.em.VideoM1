@@ -1,1 +1,1 @@
-# Atividades.CursoPython-Curso.em.VideoM1
+Atividades Resolvidas
